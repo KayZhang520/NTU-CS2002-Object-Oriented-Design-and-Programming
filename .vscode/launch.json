@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test.Test",
+            "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2p1",
+            "request": "launch",
+            "mainClass": "Lab2.Lab2p1",
+            "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2p1",
+            "request": "launch",
+            "mainClass": "lab2.Lab2p1",
+            "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2p1",
+            "request": "launch",
+            "mainClass": "Lab2p1",
+            "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
+        },
+        {
+            "type": "java",
             "name": "Launch Circle",
             "request": "launch",
             "mainClass": "Circle",
