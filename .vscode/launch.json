@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Test",
             "request": "launch",
+            "mainClass": "Test",
+            "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
             "mainClass": "Test.Test",
             "projectName": "cs2002_labs-and-tutorials_6e53a9ab"
         },
